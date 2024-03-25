@@ -1,4 +1,4 @@
-# EECS3401Final
+# EECS3401Final, Group 9
 final project for EECS3401
 
 final_rev2 is the notebook for our classification task
